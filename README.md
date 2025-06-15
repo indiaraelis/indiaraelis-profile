@@ -83,7 +83,7 @@ Geographer, Technical support engineer transitioning to Software Development
 💾 Databases: PostgreSQL, MongoDB  
 🔧 Tools: Git, Docker, Postman, GitHub Actions  
 
-## 📚 Currently learning
+## 🧠 Currently learning
 
 - Java and Spring Boot
 - Automated tests with Jest
